@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<patches>
+  
+  <patch number="4,15">
+    <startdate>2014-08-27</startdate>
+    <enddate>2014-09-10</enddate>
+  </patch>
+  
+  <patch number="4,16">
+    <startdate>2014-09-10</startdate>
+    <enddate>2014-09-25</enddate>
+  </patch>
+
+  <patch number="4,17">
+    <startdate>2014-09-25</startdate>
+    <enddate>2014-10-10</enddate>
+  </patch>
+
+  <patch number="4,18">
+    <startdate>2014-10-10</startdate>
+    <enddate>2020-01-01</enddate> <!-- no known enddate yet -->
+  </patch>
+  
+</patches>
